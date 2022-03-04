@@ -1,0 +1,15 @@
+0-Status code: NoContent
+Headers: System.Collections.Generic.List`1[RestSharp.HeaderParameter]
+Content: 
+0-Error: System.Net.Http.HttpRequestException: Request failed with status code InternalServerError
+   en RestSharp.RestClient.ThrowIfError(RestResponse response)
+   en RestSharp.RestClientExtensions.<PostAsync>d__17.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   en XML.Classes.Requests.<loginPostRequest>d__1.MoveNext() en F:\elagu\Documentos\GitHub\XML\XML\Classes\Requests.cs:línea 29
+0-Status code: NoContent
+Headers: HeaderParameter { Name = Set-Cookie, Value = ASP.NET_SessionId=emcxtnwdiwknbcm0gfnwe2be; path=/; HttpOnly; SameSite=Lax, Type = HttpHeader, Encode = False, ContentType =  }
+Content: 
+Cookies(6): System.Net.CookieCollection

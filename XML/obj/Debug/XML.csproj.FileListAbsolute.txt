@@ -1,0 +1,202 @@
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\XML.exe.config
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\XML.exe
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\XML.pdb
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\RestSharp.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Buffers.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Memory.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Text.Json.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.ValueTuple.dll
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\RestSharp.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Buffers.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Memory.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Text.Json.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mondrik\Desktop\XML\XML\bin\Debug\System.ValueTuple.xml
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.frmMain.resources
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.exe
+C:\Users\Mondrik\Desktop\XML\XML\obj\Debug\XML.pdb
+D:\Erick\Documents\XML\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+D:\Erick\Documents\XML\XML\obj\Debug\XML.csproj.SuggestedBindingRedirects.cache
+D:\Erick\Documents\XML\XML\obj\Debug\XML.Properties.Resources.resources
+D:\Erick\Documents\XML\XML\obj\Debug\XML.frmMain.resources
+D:\Erick\Documents\XML\XML\obj\Debug\XML.csproj.GenerateResource.cache
+D:\Erick\Documents\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+D:\Erick\Documents\XML\XML\obj\Debug\XML.exe
+D:\Erick\Documents\XML\XML\obj\Debug\XML.pdb
+D:\Erick\Documents\XML\XML\bin\Debug\XML.exe.config
+D:\Erick\Documents\XML\XML\bin\Debug\XML.exe
+D:\Erick\Documents\XML\XML\bin\Debug\XML.pdb
+D:\Erick\Documents\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Erick\Documents\XML\XML\bin\Debug\Newtonsoft.Json.dll
+D:\Erick\Documents\XML\XML\bin\Debug\RestSharp.dll
+D:\Erick\Documents\XML\XML\bin\Debug\System.Buffers.dll
+D:\Erick\Documents\XML\XML\bin\Debug\System.Memory.dll
+D:\Erick\Documents\XML\XML\bin\Debug\System.Numerics.Vectors.dll
+D:\Erick\Documents\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Erick\Documents\XML\XML\bin\Debug\System.Text.Encodings.Web.dll
+D:\Erick\Documents\XML\XML\bin\Debug\System.Text.Json.dll
+D:\Erick\Documents\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Erick\Documents\XML\XML\bin\Debug\System.ValueTuple.dll
+D:\Erick\Documents\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Erick\Documents\XML\XML\bin\Debug\Newtonsoft.Json.xml
+D:\Erick\Documents\XML\XML\bin\Debug\RestSharp.xml
+D:\Erick\Documents\XML\XML\bin\Debug\System.Buffers.xml
+D:\Erick\Documents\XML\XML\bin\Debug\System.Memory.xml
+D:\Erick\Documents\XML\XML\bin\Debug\System.Numerics.Vectors.xml
+D:\Erick\Documents\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Erick\Documents\XML\XML\bin\Debug\System.Text.Encodings.Web.xml
+D:\Erick\Documents\XML\XML\bin\Debug\System.Text.Json.xml
+D:\Erick\Documents\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Erick\Documents\XML\XML\bin\Debug\System.ValueTuple.xml
+D:\Erick\Documents\XML\XML\obj\Debug\XML.csproj.CopyComplete
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\XML.exe.config
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\XML.exe
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\XML.pdb
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\Newtonsoft.Json.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\RestSharp.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Buffers.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Memory.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Numerics.Vectors.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Text.Encodings.Web.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Text.Json.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.ValueTuple.dll
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\Newtonsoft.Json.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\RestSharp.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Buffers.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Memory.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Numerics.Vectors.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Text.Encodings.Web.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Text.Json.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Erick\Documents\GitHub\XML\XML\bin\Debug\System.ValueTuple.xml
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.csproj.SuggestedBindingRedirects.cache
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.Properties.Resources.resources
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.Views.frmArchivo.resources
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.frmMain.resources
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.csproj.GenerateResource.cache
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.csproj.CopyComplete
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.exe
+D:\Erick\Documents\GitHub\XML\XML\obj\Debug\XML.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\obj\Debug\XML.Views.frmArchivo.resources
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\XML.exe.config
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\XML.exe
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\XML.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\RestSharp.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Buffers.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Memory.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Text.Json.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.ValueTuple.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\RestSharp.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Buffers.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Memory.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Text.Json.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\bin\Debug\System.ValueTuple.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\obj\Debug\XML.exe
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XML\XML\obj\Debug\XML.pdb
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\XML.exe.config
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\XML.exe
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\XML.pdb
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\Newtonsoft.Json.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\RestSharp.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Buffers.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Memory.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Numerics.Vectors.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Text.Encodings.Web.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Text.Json.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.ValueTuple.dll
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\Newtonsoft.Json.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\RestSharp.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Buffers.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Memory.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Numerics.Vectors.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Text.Encodings.Web.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Text.Json.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\elagu\Documentos\GitHub\XML\XML\bin\Debug\System.ValueTuple.xml
+F:\elagu\Documentos\GitHub\XML\XML\obj\Debug\XML.csproj.SuggestedBindingRedirects.cache
+F:\elagu\Documentos\GitHub\XML\XML\obj\Debug\XML.Properties.Resources.resources
+F:\elagu\Documentos\GitHub\XML\XML\obj\Debug\XML.Views.frmArchivo.resources
+F:\elagu\Documentos\GitHub\XML\XML\obj\Debug\XML.csproj.GenerateResource.cache
+F:\elagu\Documentos\GitHub\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+F:\elagu\Documentos\GitHub\XML\XML\obj\Debug\XML.csproj.CopyComplete
+F:\elagu\Documentos\GitHub\XML\XML\obj\Debug\XML.exe
+F:\elagu\Documentos\GitHub\XML\XML\obj\Debug\XML.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\XML.exe.config
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\XML.exe
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\XML.pdb
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\RestSharp.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Buffers.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Memory.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Text.Json.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.ValueTuple.dll
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\RestSharp.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Buffers.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Memory.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Text.Json.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\bin\Debug\System.ValueTuple.xml
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\obj\Debug\XML.csproj.AssemblyReference.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\obj\Debug\XML.Views.frmArchivo.resources
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\obj\Debug\XML.csproj.GenerateResource.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\obj\Debug\XML.csproj.CopyComplete
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\obj\Debug\XML.exe
+C:\Users\nadad\OneDrive\Escritorio\Respositorio GitHub\XmlToJsonAPI\XML\obj\Debug\XML.pdb
